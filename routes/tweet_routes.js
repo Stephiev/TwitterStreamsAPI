@@ -1,6 +1,6 @@
 'use strict';
 
-var TweetsM = require('../models/tweetsM');
+var TweetsM    = require('../models/tweetsM');
 var bodyparser = require('body-parser');
 
 module.exports = function(router){
